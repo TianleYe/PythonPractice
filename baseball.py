@@ -13,9 +13,7 @@ about the expected behavior of the program.
 
 import csv
 
-##
-## Provided code from Week 3 Project
-##
+
 
 def read_csv_as_list_dict(filename, separator, quote):
     """
